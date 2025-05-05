@@ -38,3 +38,8 @@ hr {
   margin-top: 1rem;
   margin-bottom: 2rem;
 }
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
