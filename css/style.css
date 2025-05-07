@@ -71,3 +71,13 @@ figcaption {
   margin-top: 0.5rem;
 }
 
+.footer-motto {
+  font-size: 0.85rem;
+  text-align: center;
+  opacity: 0.65;
+  font-style: italic;
+  color: #33475b; /* Harmonizes with your text tone */
+  margin-top: 2rem;
+}
+
+
