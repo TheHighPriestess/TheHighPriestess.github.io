@@ -71,13 +71,16 @@ figcaption {
   margin-top: 0.5rem;
 }
 
-.footer-motto {
-  font-size: 0.85rem;
+.myth-review-block {
+  font-size: 0.9rem;
   text-align: center;
-  opacity: 0.65;
+  margin-top: 3rem;
+  padding: 1.5rem 1rem;
+  border-top: 1px solid #ccc;
+  color: #33475b;
   font-style: italic;
-  color: #33475b; /* Harmonizes with your text tone */
-  margin-top: 2rem;
+  background-color: #f9f9f9; /* or keep it transparent if you prefer */
+  opacity: 0.85;
 }
 
 
